@@ -375,7 +375,7 @@ New to system design?
 
 First, you'll need a basic understanding of common principles, learning about what they are, how they are used, and their pros and cons.
 
-### Step 1: Review the scalability video lecture - [ ]
+### Step 1: Review the scalability video lecture
 
 [Scalability Lecture at Harvard](https://www.youtube.com/watch?v=-W9F__D3oY4) 
 
@@ -387,7 +387,7 @@ First, you'll need a basic understanding of common principles, learning about wh
     * Database replication
     * Database partitioning
 
-### Step 2: Review the scalability article - [ ]
+### Step 2: Review the scalability article
 
 [Scalability](http://www.lecloud.net/tagged/scalability/chrono)
 
