@@ -100,9 +100,9 @@ Review the [Contributing Guidelines](CONTRIBUTING.md).
 * [System design topics: start here](#system-design-topics-start-here)
     * ~~[Step 1: Review the scalability video lecture](#step-1-review-the-scalability-video-lecture)~~
     * ~~[Step 2: Review the scalability article](#step-2-review-the-scalability-article)~~
-    * [Next steps](#next-steps)
-* [Performance vs scalability](#performance-vs-scalability)
-* [Latency vs throughput](#latency-vs-throughput)
+    * ~~[Next steps](#next-steps)·~
+* ~~[Performance vs scalability](#performance-vs-scalability)~~
+* ~~[Latency vs throughput](#latency-vs-throughput)~~
 * [Availability vs consistency](#availability-vs-consistency)
     * [CAP theorem](#cap-theorem)
         * [CP - consistency and partition tolerance](#cp---consistency-and-partition-tolerance)
