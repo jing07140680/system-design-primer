@@ -107,14 +107,14 @@ Review the [Contributing Guidelines](CONTRIBUTING.md).
     * ~~[CAP theorem](#cap-theorem)~~
         * ~~[CP - consistency and partition tolerance](#cp---consistency-and-partition-tolerance)~~
         * ~~[AP - availability and partition tolerance](#ap---availability-and-partition-tolerance)~~
-* [Consistency patterns](#consistency-patterns)
-    * [Weak consistency](#weak-consistency)
-    * [Eventual consistency](#eventual-consistency)
-    * [Strong consistency](#strong-consistency)
-* [Availability patterns](#availability-patterns)
-    * [Fail-over](#fail-over)
-    * [Replication](#replication)
-    * [Availability in numbers](#availability-in-numbers)
+* ~~[Consistency patterns](#consistency-patterns)~~
+    * ~~[Weak consistency](#weak-consistency)~~
+    * ~~[Eventual consistency](#eventual-consistency)~~
+    * ~~[Strong consistency](#strong-consistency)~~
+* ~~[Availability patterns](#availability-patterns)~~
+    * ~~[Fail-over](#fail-over)~~
+    * ~~[Replication](#replication)~~
+    * ~~[Availability in numbers](#availability-in-numbers)~~
 * [Domain name system](#domain-name-system)
 * [Content delivery network](#content-delivery-network)
     * [Push CDNs](#push-cdns)
