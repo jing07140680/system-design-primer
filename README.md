@@ -103,7 +103,7 @@ Review the [Contributing Guidelines](CONTRIBUTING.md).
     * ~~[Next steps](#next-steps)~~
 * ~~[Performance vs scalability](#performance-vs-scalability)~~
 * ~~[Latency vs throughput](#latency-vs-throughput)~~
-* [Availability vs consistency](#availability-vs-consistency)
+* ~~[Availability vs consistency](#availability-vs-consistency)~~
     * ~~[CAP theorem](#cap-theorem)~~
         * ~~[CP - consistency and partition tolerance](#cp---consistency-and-partition-tolerance)~~
         * ~~[AP - availability and partition tolerance](#ap---availability-and-partition-tolerance)~~
@@ -116,9 +116,9 @@ Review the [Contributing Guidelines](CONTRIBUTING.md).
     * ~~[Replication](#replication)~~
     * ~~[Availability in numbers](#availability-in-numbers)~~
 * ~~[Domain name system](#domain-name-system)~~
-* [Content delivery network](#content-delivery-network)
-    * [Push CDNs](#push-cdns)
-    * [Pull CDNs](#pull-cdns)
+* ~~[Content delivery network](#content-delivery-network)~~
+    * ~~[Push CDNs](#push-cdns)~~
+    * ~~[Pull CDNs](#pull-cdns)~~
 * [Load balancer](#load-balancer)
     * [Active-passive](#active-passive)
     * [Active-active](#active-active)
