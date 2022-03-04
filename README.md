@@ -115,7 +115,7 @@ Review the [Contributing Guidelines](CONTRIBUTING.md).
     * ~~[Fail-over](#fail-over)~~
     * ~~[Replication](#replication)~~
     * ~~[Availability in numbers](#availability-in-numbers)~~
-* [Domain name system](#domain-name-system)
+* ~~[Domain name system](#domain-name-system)~~
 * [Content delivery network](#content-delivery-network)
     * [Push CDNs](#push-cdns)
     * [Pull CDNs](#pull-cdns)
