@@ -119,12 +119,12 @@ Review the [Contributing Guidelines](CONTRIBUTING.md).
 * ~~[Content delivery network](#content-delivery-network)~~
     * ~~[Push CDNs](#push-cdns)~~
     * ~~[Pull CDNs](#pull-cdns)~~
-* [Load balancer](#load-balancer)
-    * [Active-passive](#active-passive)
-    * [Active-active](#active-active)
-    * [Layer 4 load balancing](#layer-4-load-balancing)
-    * [Layer 7 load balancing](#layer-7-load-balancing)
-    * [Horizontal scaling](#horizontal-scaling)
+* ~~[Load balancer](#load-balancer)~~
+    * ~~[Active-passive](#active-passive)~~
+    * ~~[Active-active](#active-active)~~
+    * ~~[Layer 4 load balancing](#layer-4-load-balancing)~~
+    * ~~[Layer 7 load balancing](#layer-7-load-balancing)
+    * ~~[Horizontal scaling](#horizontal-scaling)
 * [Reverse proxy (web server)](#reverse-proxy-web-server)
     * [Load balancer vs reverse proxy](#load-balancer-vs-reverse-proxy)
 * [Application layer](#application-layer)
