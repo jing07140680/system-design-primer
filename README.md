@@ -127,9 +127,9 @@ Review the [Contributing Guidelines](CONTRIBUTING.md).
     * ~~[Horizontal scaling](#horizontal-scaling)~~
 * ~~[Reverse proxy (web server)](#reverse-proxy-web-server)~~
     * ~~[Load balancer vs reverse proxy](#load-balancer-vs-reverse-proxy)~~
-* [Application layer](#application-layer)
-    * [Microservices](#microservices)
-    * [Service discovery](#service-discovery)
+* ~~[Application layer](#application-layer)~~
+    * ~~[Microservices](#microservices)~~
+    * ~~[Service discovery](#service-discovery)~~
 * [Database](#database)
     * [Relational database management system (RDBMS)](#relational-database-management-system-rdbms)
         * [Master-slave replication](#master-slave-replication)
