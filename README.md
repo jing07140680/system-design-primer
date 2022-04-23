@@ -130,19 +130,19 @@ Review the [Contributing Guidelines](CONTRIBUTING.md).
 * ~~[Application layer](#application-layer)~~
     * ~~[Microservices](#microservices)~~
     * ~~[Service discovery](#service-discovery)~~
-* [Database](#database)
-    * [Relational database management system (RDBMS)](#relational-database-management-system-rdbms)
-        * [Master-slave replication](#master-slave-replication)
-        * [Master-master replication](#master-master-replication)
-        * [Federation](#federation)
-        * [Sharding](#sharding)
-        * [Denormalization](#denormalization)
-        * [SQL tuning](#sql-tuning)
-    * [NoSQL](#nosql)
-        * [Key-value store](#key-value-store)
-        * [Document store](#document-store)
-        * [Wide column store](#wide-column-store)
-        * [Graph Database](#graph-database)
+* ~~[Database](#database)~~
+    * ~~[Relational database management system (RDBMS)](#relational-database-management-system-rdbms)~~
+        * ~~[Master-slave replication](#master-slave-replication)~~
+        * ~~[Master-master replication](#master-master-replication)~~
+        * ~~[Federation](#federation)~~
+        * ~~[Sharding](#sharding)~~
+        * ~~[Denormalization](#denormalization)~~
+        * ~~[SQL tuning](#sql-tuning)~~
+    * ~~[NoSQL](#nosql)~~
+        * ~~[Key-value store](#key-value-store)~~
+        * ~~[Document store](#document-store)~~
+        * ~~[Wide column store](#wide-column-store)~~
+        * ~~[Graph Database](#graph-database)~~
     * [SQL or NoSQL](#sql-or-nosql)
 * [Cache](#cache)
     * [Client caching](#client-caching)
