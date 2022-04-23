@@ -143,20 +143,20 @@ Review the [Contributing Guidelines](CONTRIBUTING.md).
         * ~~[Document store](#document-store)~~
         * ~~[Wide column store](#wide-column-store)~~
         * ~~[Graph Database](#graph-database)~~
-    * [SQL or NoSQL](#sql-or-nosql)
-* [Cache](#cache)
-    * [Client caching](#client-caching)
-    * [CDN caching](#cdn-caching)
-    * [Web server caching](#web-server-caching)
-    * [Database caching](#database-caching)
-    * [Application caching](#application-caching)
-    * [Caching at the database query level](#caching-at-the-database-query-level)
-    * [Caching at the object level](#caching-at-the-object-level)
-    * [When to update the cache](#when-to-update-the-cache)
-        * [Cache-aside](#cache-aside)
-        * [Write-through](#write-through)
-        * [Write-behind (write-back)](#write-behind-write-back)
-        * [Refresh-ahead](#refresh-ahead)
+    * ~~[SQL or NoSQL](#sql-or-nosql)~~
+* ~~[Cache](#cache)~~
+    * ~~[Client caching](#client-caching)~~
+    * ~~[CDN caching](#cdn-caching)~~
+    * ~~[Web server caching](#web-server-caching)~~
+    * ~~[Database caching](#database-caching)~~
+    * ~~[Application caching](#application-caching)~~
+    * ~~[Caching at the database query level](#caching-at-the-database-query-level)~~
+    * ~~[Caching at the object level](#caching-at-the-object-level)~~
+    * ~~[When to update the cache](#when-to-update-the-cache)~~
+        * ~~[Cache-aside](#cache-aside)~~
+        * ~~[Write-through](#write-through)~~
+        * ~~[Write-behind (write-back)](#write-behind-write-back)~~
+        * ~~[Refresh-ahead](#refresh-ahead)~~
 * [Asynchronism](#asynchronism)
     * [Message queues](#message-queues)
     * [Task queues](#task-queues)
