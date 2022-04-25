@@ -157,13 +157,13 @@ Review the [Contributing Guidelines](CONTRIBUTING.md).
         * ~~[Write-through](#write-through)~~
         * ~~[Write-behind (write-back)](#write-behind-write-back)~~
         * ~~[Refresh-ahead](#refresh-ahead)~~
-* [Asynchronism](#asynchronism)
-    * [Message queues](#message-queues)
-    * [Task queues](#task-queues)
-    * [Back pressure](#back-pressure)
-* [Communication](#communication)
-    * [Transmission control protocol (TCP)](#transmission-control-protocol-tcp)
-    * [User datagram protocol (UDP)](#user-datagram-protocol-udp)
+* ~~[Asynchronism](#asynchronism~~
+    * ~~[Message queues](#message-queues)~~
+    * ~~[Task queues](#task-queues)~~
+    * ~~[Back pressure](#back-pressure)~~
+* ~~[Communication](#communication)~~
+    * ~~[Transmission control protocol (TCP)](#transmission-control-protocol-tcp)~~
+    * ~~[User datagram protocol (UDP)](#user-datagram-protocol-udp)~~
     * [Remote procedure call (RPC)](#remote-procedure-call-rpc)
     * [Representational state transfer (REST)](#representational-state-transfer-rest)
 * [Security](#security)
